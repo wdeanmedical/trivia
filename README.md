@@ -1,2 +1,11 @@
-# trivia
-A little Trivia App in React Native
+# Trivia React Native
+
+### Getting Started
+
+```
+> git clone https://github.com/g2i/code-challenge-nick-sophinos.git
+> cd code-challenge-nick-sophinos
+> yarn install
+> yarn start
+```
+
