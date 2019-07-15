@@ -9,3 +9,4 @@
 > yarn start
 ```
 
+![alt text](http://g.recordit.co/dqLWQUjKHu.gif "Application in action")
